@@ -10,8 +10,8 @@ function About() {
                 <div className="text">
                     <h2>Full Stack Web Developer</h2>
                     <p className="mTopBottom">
-                    Web Developer with a certificate in Full Stack Web Development from the UC Berkeley and a background in Finance. I am
-                    known as detail-oriented and quality-oriented by my co-workers and management.</p>
+                        Web Developer with a certificate in Full Stack Web Development from the UC Berkeley and a background in Finance. I am
+                        known as detail-oriented and quality-oriented by my co-workers and management.</p>
                     <p className="mTopBottom">
                         Developed skill set directly relevant to web development, including strong knowledge of HTML, CSS,
                         and scripting languages; experience working with developers remotely to accomplish desired results.
