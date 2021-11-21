@@ -1,0 +1,74 @@
+[
+    {
+        "id": 9,
+        "src": "https://github.com/ShannonDukes/Budget-Tracker/raw/main/public/images/budget.jpg",
+        "alt": "Budget Tracker",
+        "title": "Budget Tracker",
+        "link": "https://shannondukes.github.io/Budget-Tracker/",
+        "button": "https://github.com/ShannonDukes/Budget-Tracker"
+    },
+    {
+        "id": 8,
+        "src": "https://github.com/ShannonDukes/CMS-Blog/raw/main/public/images/cmsblog.jpg",
+        "alt": "CMS Blog",
+        "title": "CMS Blog",
+        "link": "https://shannondukes.github.io/CMS-Blog/",
+        "button": "https://github.com/ShannonDukes/CMS-Blog"
+    },
+    {
+        "id": 7,
+        "src": "https://github.com/ShannonDukes/Employee-Tracker/raw/main/assets/images/employee-tracker.jpg",
+        "alt": "Employee Tracker",
+        "title": "Employee Tracker",
+        "link": "https://shannondukes.github.io/Employee-Tracker/",
+        "button": "https://github.com/ShannonDukes/Employee-Tracker"
+    },
+    {
+        "id": 6,
+        "src": "https://github.com/mjos7/adventure-time/raw/main/assets/img/adventure-time-photo.png",
+        "alt": "Adventure Time",
+        "title": "Adventure Time",
+        "link": "https://mjos7.github.io/adventure-time/",
+        "button": "https://github.com/mjos7/adventure-time"
+    },
+    {
+        "id": 5,
+        "src": "https://github.com/ShannonDukes/Team-Profile-Generator/raw/main/assets/images/finshed-product.png",
+        "alt": "Team Profile Generator",
+        "title": "Team Profile Generator",
+        "link": "https://shannondukes.github.io/Team-Profile-Generator/",
+        "button": "https://github.com/ShannonDukes/Team-Profile-Generator"
+    },
+    {
+        "id": 4,
+        "src": "https://github.com/ShannonDukes/run-buddy/raw/main/images/RunBuddy2.png",
+        "alt": "Run Buddy",
+        "title": "Run Buddy",
+        "link": "https://shannondukes.github.io/run-buddy/",
+        "button": "https://github.com/ShannonDukes/run-buddy"
+    },
+    {
+        "id": 3,
+        "src": "https://github.com/ShannonDukes/Note-Saver/raw/main/public/assets/images/notesaver1.jpg",
+        "alt": "Note Saver",
+        "title": "Note Saver",
+        "link": "https://shannondukes.github.io/Note-Saver/",
+        "button": "https://github.com/ShannonDukes/Note-Saver"
+    },
+    {
+        "id": 2,
+        "src": "https://github.com/ShannonDukes/Book-Search/raw/main/00-React-App/client/public/images/screenshot.jpg",
+        "alt": "Book Search",
+        "title": "Book Search",
+        "link": "https://shannondukes.github.io/Book-Search/",
+        "button": "https://github.com/ShannonDukes/Book-Search"
+    },
+    {
+        "id": 1,
+        "src": "https://github.com/ShannonDukes/Work-Day-Scheduler/raw/main/img/work-day-scheduler-img.png",
+        "alt": "Work Day Scheduler",
+        "title": "Work Day Scheduler",
+        "link": "https://shannondukes.github.io/Work-Day-Scheduler/",
+        "button": "https://github.com/ShannonDukes/Work-Day-Scheduler"
+    }
+]

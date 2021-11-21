@@ -5,7 +5,7 @@ function About() {
         <section className="container">
             <div className="about">
                 <div className="pic">
-                    <img className="pic" src={require(`../assets/images/Shannon.jpg`).default} alt="Shannon Dukes" />
+                    <img className="pic" src={require(`../assets/images/shannon.jpg`).default} alt="Shannon Dukes" />
                 </div>
                 <div className="text">
                     <h2>Full Stack Web Developer</h2>

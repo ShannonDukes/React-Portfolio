@@ -1,0 +1,16 @@
+/* Portfolio Container */
+
+.card {
+    background-color: transparent;
+}
+
+.card-title {
+    color: black;
+    text-align: center;
+    letter-spacing: 2px;    
+}
+
+a:not([href]) {
+    color: black;
+    text-decoration: none;  
+  }

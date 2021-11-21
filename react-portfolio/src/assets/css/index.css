@@ -1,4 +1,5 @@
 @import url('reset.css');
+
 body {
 	background: #f9f9f9 url(../images/white_texture.jpg) repeat top left;
 	color: #333;
@@ -45,15 +46,37 @@ body {
 header {
 	padding: 20px 35px;
 	background-color: #d0d6e6;
-	background-image: url(../images/background.jpg);
+	background-image: url("https://images.unsplash.com/photo-1566807387450-b74aea0e727e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGdyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60");
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
-	z-index: 9999;
+	z-index: 9998;
 	border-bottom: 1px solid #607d8b;
+}
+
+
+.container h1, nav {
+
+	display: flex;
+	min-width: 90vw;
+	min-height: 10vh;
+	margin-left: -5vw;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+	z-index: 9999;
+	background-color: rgba(255, 255, 255, .15);
+	backdrop-filter: blur(5px);
+	border-radius: 2%;
+}
+
+.container h1 {
+	margin-top: 2%;
 }
 
 header h1 {
@@ -269,7 +292,7 @@ ul {
 
 footer {
 	background-color: #d0d6e6;
-	background-image: url(../images/background.jpg);
+	background-image: url("https://images.unsplash.com/photo-1566807387450-b74aea0e727e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGdyZWVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60");
 	min-height: 50px;
 	display: flex;
 	justify-content: space-evenly;
@@ -293,9 +316,11 @@ footer {
 	header nav ul li a, footer, footer a {
 		font-size: 16px;
 	}
+
 	h2 {
 		font-size: 22px;
 	}
+
 	h3 {
 		font-size: 18px;
 	}
@@ -306,15 +331,18 @@ footer {
 		justify-content: center;
 		position: relative;
 	}
+
 	header h1 {
 		width: 100%;
 		text-align: center;
 	}
+
 	header nav ul {
 		margin: 20px 0 10px 0;
 		width: 100%;
 		justify-content: center;
 	}
+
 	header nav ul li a, footer, footer a {
 		font-size: 16px;
 	}
@@ -324,10 +352,12 @@ footer {
 	header nav ul li a, footer, footer a {
 		font-size: 16px;
 	}
+
 	footer {
 		flex-flow: column;
 		position: relative;
 	}
+
 	footer div {
 		text-align: center;
 		padding: 15px;
@@ -338,13 +368,16 @@ footer {
 	header h1 {
 		font-size: 24px;
 	}
+
 	header nav ul li a, footer, footer a {
 		font-size: 14px;
 	}
+
 	footer, header nav ul {
 		flex-flow: column;
 		position: relative;
 	}
+
 	footer div, header nav ul li {
 		text-align: center;
 		padding: 10px;

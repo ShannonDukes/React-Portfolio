@@ -1,0 +1,18 @@
+#disp4 {
+    font-family: Gloss and Bloom;
+    letter-spacing: 2px;
+    color: black;
+    text-align: center;
+}
+
+#linksPortfolio {
+    padding-top: 20px;
+}
+
+.flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}

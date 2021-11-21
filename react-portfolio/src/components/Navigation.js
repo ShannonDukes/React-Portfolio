@@ -5,6 +5,7 @@ function Nav(props) {
 
     return (
         <header>
+            <div className="container">
             <h1>Shannon Dukes</h1>
             <nav>
                 <ul>
@@ -25,6 +26,7 @@ function Nav(props) {
 
                 </ul>
             </nav>
+            </div>
         </header>
     );
 }

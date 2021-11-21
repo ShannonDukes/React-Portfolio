@@ -6,7 +6,7 @@ function About() {
         <section className="container">
             <div className="about">
                 <div className="pic">
-                    <img className="pic" src={require(`../assets/images/Shannon.jpg`).default} alt="Shannon Dukes" />
+                    <img className="pic" src={require(`../assets/images/shannon.jpg`).default} alt="Shannon Dukes" />
                 </div>
                 <div className="text">
                     <h2 className="mAll">Contact me</h2>
@@ -17,7 +17,7 @@ function About() {
                     </div>
                     <div className="mAll">
                         <div>
-                            <FontAwesomeIcon icon={["fas", "mobile-alt"]} size="1x" color="#607d8b" /> (801)-628-9257
+                            <FontAwesomeIcon icon={["fas", "mobile-alt"]} size="1x" color="#607d8b" /> (707)971-0574
 
                         </div>
 

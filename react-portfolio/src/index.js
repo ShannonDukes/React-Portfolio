@@ -6,12 +6,14 @@ import reportWebVitals from './reportWebVitals';
 import { library } from '@fortawesome/fontawesome-svg-core';
 // import { fas } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faMobile, faEnvelopeSquare, faMobileAlt } from '@fortawesome/free-solid-svg-icons'
+import { faMobile } from '@fortawesome/free-solid-svg-icons/faMobile';
+import { faEnvelopeSquare } from '@fortawesome/free-solid-svg-icons/faEnvelopeSquare';
+import { faMobileAlt } from '@fortawesome/free-solid-svg-icons/faMobileAlt';
 
 library.add(
   fab,
-  faEnvelopeSquare,
   faMobile,
+  faEnvelopeSquare,
   faMobileAlt
 );
 
